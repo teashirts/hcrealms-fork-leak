@@ -1,0 +1,209 @@
+name: fHCF
+version: 1.1
+description: Shitty HCRealms skid Nulled by Queen Erza
+author: StaffTP
+main: me.stafftp.hcf.Base
+depend:
+- ProtocolLib
+- Vault
+commands:
+  reply:
+    aliases:
+    - r
+  broadcast:
+    aliases:
+    - bc
+  message:
+    aliases:
+    - tell
+    - m
+    - msg
+    - w 
+    - whisper
+    - me
+  togglemessage:
+    aliases:
+    - togglepm
+  teleport:
+    aliases:
+    - tp
+  vanish:
+    aliases:
+    - v
+  stats: null
+  ffa: null
+  reclaim: null
+  glowstone: null
+  mediachat:
+    aliases:
+    - mc
+    - mchat
+  top: null
+  reset: null
+  copyinv: null
+  fsay: null
+  tl: null
+  kingevent: null
+  setkb: null
+  clearchat: 
+    aliases:
+    - cc
+  craft: null
+  hat: null
+  staffmode:
+    aliases:
+    - mod
+    - h
+    - staff
+  feed:
+    aliases:
+    - eat
+  spawndragon:
+    description: Spawns an Ender-Dragon
+  heal: null
+  skull: null
+  sudo: null
+  enchant: null
+  playtime:
+    aliases:
+    - pt
+  endportal: null
+  setspawn: null
+  world: null
+  kill: null
+  lockdown: null
+  clear:
+    aliases:
+    - ci
+  ping: null
+  disablechat:
+    aliases:
+    - mc
+  more: null
+  lff: null
+  lfa: null
+  cobble: null
+  staffchat:
+    aliases:
+    - sc
+  gamemode:
+    aliases:
+    - gm
+  coords: null
+  pv:
+    aliases:
+    - playervault
+    - playervaults
+  teleportall:
+    aliases:
+    - tpall
+  teleporthere:
+    aliases:
+    - tphere
+    - s
+  god: null
+  set: null
+  lag: null
+  invsee: null
+  rename: null
+  fly: null
+  panic: null
+  fix:
+    aliases:
+    - repair
+  give: null
+  item:
+    aliases:
+    - i
+  random:
+    description: Teleports or gets a random player.
+  sotw:
+    description: Starts a 30 minute SOTW timer.
+  reboot:
+    description: Starts a reboot timer.
+  sale:
+    description: Start a store-wide sale.
+  refund:
+    description: Refunds an inventory.
+  crowbar:
+    description: Management of crowbar tools.
+  freeze:
+    aliases:
+    - ss
+  report: null
+  helpop: null
+  litebans: null
+  mapkit:
+    description: Management of crowbar tools.
+  gmc:
+    description: Management of crowbar tools.
+  gms:
+    description: Management of crowbar tools.
+  staffrevive: null
+  conquest:
+    description: Command used to handle Conquest events.
+  economy:
+    aliases:
+    - bal
+    - balance
+    - money
+    - eco
+    description: Command used to modify the economy.
+  eotw:
+    description: Sets if the server is in End of the World mode.
+  event:
+    description: Command used to manage minigame events.
+  faction:
+    aliases:
+    - f
+    - fac
+    description: Faction related commands.
+  gopple:
+    description: Command to check remaining OP apple cooldown time.
+    aliases:
+    - goppletimer
+    - goppletime
+  koth:
+    description: Make or delete KotH arenas.
+  lives:
+    description: Management of lives or deathbans.
+  logout:
+    aliases:
+    - disconnect
+    description: Command to safely logout without an NPC spawning.
+  ores:
+    description: Obtain keys to unlock awesome loot.
+  pay:
+    description: Allow players to pay money.
+  pvptimer:
+    aliases:
+    - pvp
+    description: to enable or disable pvp timer protection.
+  setborder:
+    aliases:
+    - setbordersize
+    description: Sets the border size of an Environment.
+  teamspeak:
+    aliases:
+    - ts
+    description: Show's player the ip for the teamspeak.
+  spawn:
+    description: Teleport to the server spawn.
+  thanksgiving: null
+  christmas: null
+  keyall: null
+  keysale: null
+  flashsale: null
+  buy1get1: null
+  triplekey: null
+  doublekey: null
+  help: null
+  list: null
+  spawner: null
+  timer:
+    description: Command to manage timers.
+  youtube: null
+  famous: null
+  partner: null
+  ticks: null
+  slowchat:

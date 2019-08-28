@@ -1,0 +1,119 @@
+HWID: ''
+Scoreboard:
+  Map_Title:
+   Name: 'fHCf'
+  Kills:
+   Name: "&4&lKills&7: &f%kills%"
+  Deaths:
+   Name: "&4&lDeaths&7: &f%deaths%"
+  Vanish:
+   Name: "&eVanish&7: &f%vanish%"
+  Title:
+   Name: '&6&lfHCF &7| &fMap 1'
+Kitmap:
+  Sharpness: 1
+  Protection: 1
+kits-mode: false
+TAB-LIST: true
+Colours:
+ PRIMARY-COLOR: '&4'
+ SECONDARY-COLOR: '&f'
+ TERTIARY-COLOR: '&c'
+timeformating: true
+block-in-combat: true
+Footer:
+  text: '&7&ofhcf.com'
+  enabled: true
+StaffChat:
+ Message: '&b[S] &3[HCF] %staffmember%&b: %message%'
+MediaChat:
+ Message: '&dMC &f// &8%mediamember%&f: &d%message%'
+SERVER_NAME: fHCF
+DONATE_URL: store.fhcf.com
+SPAWN_NO_BREAK_RADIUS: 150
+MAP-KIT: '&7Protection 1 Sharpness 1'
+FACTION-SIZE: '&725Man 0Allies'
+Website: '&7www.fhcf.com'
+WARZONE_RADIUS: 150
+TALIBAN-PEARLS: true
+UHCF:
+  mode:
+   enabled: false
+MAP-NUMBER: '1.0'
+NETHER_WARZONE_RADIUS: 300
+MAX-FACTION: 5
+MAX-ALLY: 0
+DEFAULT_DEATHBAN_DURATION: 3600000
+WILDERNESS_COLOUR: DARK_GREEN
+WARZONE_COLOUR: RED
+SAFEZONE_COLOUR: AQUA
+TEAMMATE_COLOUR: DARK_GREEN
+ALLY_COLOUR: BLUE
+ENEMY_COLOUR: RED
+ROAD_COLOUR: GOLD
+GLOWSTONE_COLOUR: GOLD
+COMBATLOG_DESPAWN_DELAY_TICKS: 300
+youtube_subs: 200
+youtube_views: 300
+famous_subs: 1000
+famous_views: 500
+partner_subs: 1000
+partner_views: 500
+Timers:
+ Apple:
+  name: 'Apple'
+  color: '&6'
+potionLimits:
+  STRENGTH: 0
+  INVISIBILITY: 1
+  REGEN: 0
+  WEAKNESS: 0
+  INSTANT_DAMAGE: 0
+  SLOWNESS: 1
+  POISON: 1
+potionsExtendedDisallowed:
+  POISON
+  SLOWNESS
+Help:
+- '&8&m------------------------------------'
+- '&6&lMap Infomation&7:'
+- '&eCurrent Map&8 - &fMap 1'
+- '&eMap Border&8 - &f3000'
+- '&eMap Kit&8 - &f/mapkit'
+- '&8&m------------------------------------'
+- '&6&lUseful Commands&7:'
+- '&e/coords - &fProvides the coordinates for KoTH Locations'
+- '&e/teamspeak - &fProvides the Teamspeak Server IP'
+- '&e/rules - &cCurrently Disabled &7(https://unitedhq.club/forums/rules/)'
+- '&e/mapkit - &fProvides you with the Map Information on Enchant Limits and Potions'
+- '&e/report <Player> <Reason> - &fA command to report rule-breakers'
+- '&e/helpop <Message> - &fAlerts online Staff Members that you are in need of
+  assistance'
+- '&8&m------------------------------------'
+- '&6&lOther infomation&7:'
+- '&eWebsite&8 - &fwww.fhcf.com'
+- '&eBuycraft&8 - &fstore.fhcf.com'
+- '&eTeamspeak&8 - &fts.fhcf.com'
+- '&8&m------------------------------------'
+Teamspeak:
+- '&eTeamspeak: &fts.fhcf.com'
+teamspeak-frozen: ts.fhcf.com
+Coords:
+- '&8&m----------------------------------------'
+- '&6&lCoords'
+- '&eSpawn: &70,0 &7(Overworld)'
+- '&eNether Spawn: &70,0 &7(Nether)'
+- '&eEndPortals: &70,1500,0 &7(All for quads)'
+- '&8&m----------------------------------------'
+Online-Donator-Broadcast:
+- ''
+- '&e&lOnline Donators &6: &f%player%'
+- '&7&oIf you want to be shown here and receive &cexclusive perks &7&odonate at &6store.fhcf.com!'
+- ''
+spawn:
+  world: world
+  x: 0.538049846829157
+  y: 69.0
+  z: 0.6617853658512408
+  yaw: 0.78689575
+  pitch: 11.715501

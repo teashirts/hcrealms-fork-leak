@@ -1,0 +1,8 @@
+# You can use %PLAYER% for player name or %RANK% for rank name
+# An example can be seen below
+potato:
+  rankname: 'potato' # Set this to whatever the pex rank name is
+  commands:
+    - 'rawcast &c&l%PLAYER% &e&lhas reclaimed their &4&lPotato Rank &e&lfrom the store! &b&lhttp://store.server.us/'
+    - 'lives give %PLAYER% 40'
+    - 'crate givekey %PLAYER% Potato 10'
